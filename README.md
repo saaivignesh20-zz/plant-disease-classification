@@ -14,6 +14,7 @@ Authors:
  - Python 3.x (if running on local)
  - TensorFlow 2
  - NVIDIA Graphics Card, CUDA Drivers, [cuDNN Library](https://developer.nvidia.com/cudnn) [Optional]
+ - PlantVillage Dataset [[Click Here](https://www.tensorflow.org/datasets/catalog/plant_village)]
  
 Clone this repository first:  
 
