@@ -2,6 +2,10 @@
 This project aims to compare the performance metrics of DenseNet201 and a hand-curated CNN using Keras in the classification of plant diseases.
 > To view the paper publication on IRJET Journal, [click here](https://www.irjet.net/archives/V8/i11/IRJET-V8I1137.pdf). The paper is also available in the root of main branch in this repository in PDF format.
 
+Authors:
+* [Vishnuvaradhan M](https://github.com/vishnu884)
+* [Saai Vignesh P](https://github.com/saaivignesh20)
+
 ## How to run?
 
 ### Pre-requisites
