@@ -27,7 +27,7 @@ Or if you are an advanced user download and setup Python on your system.
 
 Run this in the terminal:
 
-    sudo apt-get install python3
+    $ sudo apt-get install python3
 
 To download and install Jupyter Notebook:
 
