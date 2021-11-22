@@ -25,6 +25,7 @@ Or if you are an advanced user download and setup Python on your system.
 * For Windows, [click here](https://www.python.org/downloads/).
 * For Ubuntu/Debian-based operating systems:
 
+Run this in the terminal:
 
     sudo apt-get install python3
 
